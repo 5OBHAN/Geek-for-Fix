@@ -1,7 +1,7 @@
 # Geek-for-Fix
 _( A custom filter for browser extensions like **AdGuard**, **uBlock Origin**, etc. )_
 
-Hide all unnecessary ad-elements of GeekForGeeks &amp; experience polished UI redesign
+Hide all unnecessary ad-elements on GeekForGeeks with additional UI redesign for better focus at actual content.
 
 
 ## Compatiblity
