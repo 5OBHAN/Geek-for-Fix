@@ -1,6 +1,6 @@
 <h1 align="center">
   <div align="center">
-    <img alt="geek-for-fix-logo" src="https://github.com/5OBHAN/Geek-for-Fix/assets/84073372/e76ddd98-6f1f-4859-bbdb-1ad762046faa" width="192"/>
+    <img alt="geek-for-fix-logo" src="https://raw.githubusercontent.com/5OBHAN/Geek-for-Fix/main/assets/geek-for-fix-logo.svg" width="192"/>
   </div>
 Geek For Fix⠀
 </h1>
